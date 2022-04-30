@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# cowcastleminiproject1
++ ### mini project 주제
+출퇴근을 관리하는 시스템
 
-You can use the [editor on GitHub](https://github.com/cowcastle/cowcastle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
++ ### mini project 에 대한 소개
+출퇴근을 할때 출근시간하고 퇴근시간하고 관리해야 하는 것들이 필요한데 이 project를 통해서 그것을 구현하려고 함
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![meeting-594091_1920](https://user-images.githubusercontent.com/104507267/166092647-9c2ef149-9aa5-4fab-b361-8e2dba1ce23a.jpg)
 
-### Markdown
++ ### mini project 가 가지고 있는 대략적인 기능 설명
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
++ ###  개발환경 및 언어
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cowcastle/cowcastle.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
++ ### 팀소개 및 팀원이 맡은 역할
