@@ -5,7 +5,7 @@
 
 
 + ### mini project 에 대한 소개
-  출퇴근을 할때 출근시간하고 퇴근시간하고 관리해야 하는 것들이 필요한데 이 project를 통해서 그것을 구현하려고 함
+  회사에서 직원들의 출퇴근 시간을 관리하기 위한 시스템을 이번 miniproject를 통해 구현해보고자 함.
 
 ![door-1845682_1920](https://user-images.githubusercontent.com/104507267/166185983-614cf1bb-c23a-4bf4-9119-d3d5b76c164e.png)
 
