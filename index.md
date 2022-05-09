@@ -1,4 +1,4 @@
-# SRCC(Super Rapid commute checker)
+# SRCC(Super Rapid Commute Checker)
 
 + ### mini project 주제
   출퇴근을 관리하는 시스템
