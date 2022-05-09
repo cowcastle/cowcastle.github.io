@@ -13,14 +13,15 @@
 ![door-1845682_1920](https://user-images.githubusercontent.com/104507267/166185983-614cf1bb-c23a-4bf4-9119-d3d5b76c164e.png)
 
 + ### mini project 가 가지고 있는 대략적인 기능 설명
-  + 사람 정보 추가
-  + 사람 정보 삭제
-  + 사람 정보 수정
-  + 사람 정보 파일에 저장
-  + 저장한 파일 불러오기
-  + 출퇴근 인증
-  + 출퇴근 log 확인
-  + 지각한 사람 체크
+  + [사람 정보 추가](https://github.com/Losecow/cowcastle.github.io/blob/main/functions/addPrivacy.md)
+  + [사람 정보 삭제](https://github.com/Losecow/cowcastle.github.io/blob/main/functions/deletePrivacy.md)
+  + [사람 정보 수정](https://github.com/Losecow/cowcastle.github.io/blob/main/functions/updatePrivacy.md)
+  + [사람 정보 조회](https://github.com/Losecow/cowcastle.github.io/blob/main/functions/readPrivacy.md)
+  + [사람 정보 파일에 저장](사람-정보-파일에-저장)
+  + [저장한 파일 불러오기](저장한-파일-불러오기)
+  + [출퇴근 인증](출퇴근-인증)
+  + [출퇴근 log 확인](출퇴근-log-확인)
+  + [지각한 사람 체크](지각한-사람-체크)
 
 + ### 개발환경 및 언어
   + Linux, Github, MarkDown 언어, C 언어, Git 
