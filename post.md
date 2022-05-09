@@ -17,6 +17,8 @@
 <img width="774" alt="KakaoTalk_20220508_092454859_04" src="https://user-images.githubusercontent.com/100589396/167408557-2697d221-7948-49b5-a270-bdd6a8fbd28a.png">
 
 수정 결과
+
+
 <img width="769" alt="KakaoTalk_20220508_092454859_05" src="https://user-images.githubusercontent.com/100589396/167408765-8208deae-fd2d-4e2e-b488-3b4c3b58cf9f.png">
 
 # 사람 정보를 삭제하는 함수
@@ -24,6 +26,8 @@
 <img width="770" alt="KakaoTalk_20220508_092454859_06" src="https://user-images.githubusercontent.com/100589396/167409134-8d53b6f6-1467-4858-aca0-a1f0f588fb67.png">
 
 삭제 결과
+
+
 <img width="805" alt="KakaoTalk_20220508_092454859_07" src="https://user-images.githubusercontent.com/100589396/167409163-a1279eee-5a94-4117-a894-926f86e880fd.png">
 
 
